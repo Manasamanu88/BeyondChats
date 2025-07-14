@@ -68,7 +68,7 @@ streamlit run app.py
 
 ---
 
-For the refrence the personas are their in the text files.
+For the  quick reference the personas are given in the text files.
 
 ## License
 MIT License 
