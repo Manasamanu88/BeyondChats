@@ -1,0 +1,43 @@
+Citation:
+Post: Koi Hai Yaha Jiske Pichle Saal less than 70 percentile the aur drop karne ke baad bohot improve kiya (95+ percentile) ?
+BC pata nahi ki Improve Kar Paunga ya nahi :(
+URL: https://reddit.com/r/JEENEETards/comments/wk9oxw/koi_hai_yaha_jiske_pichle_saal_less_than_70/
+
+--- Persona ---
+## User Persona: Anxious Aspirant, Rohan (JEENEETards)
+
+**Name:** Rohan (fictional)
+
+**Age:** 18-19 (likely, given the context of JEE/NEET exam preparation)
+
+**Background:**
+
+*   **Education:** Recently completed 12th grade and is currently taking a drop year to prepare for the JEE or NEET entrance exam in India. This is based on the subreddit `r/JEENEETards`, which is dedicated to these exams.
+*   **Previous Performance:** Rohan scored less than 70 percentile in his previous attempt at the JEE/NEET exam. This is directly cited from the post: "Koi Hai Yaha Jiske Pichle Saal less than 70 percentile the...".
+
+**Goals and Motivations:**
+
+*   **Primary Goal:** To significantly improve his percentile score and achieve 95+ percentile on the JEE/NEET exam. This is stated clearly in the post: "...aur drop karne ke baad bohot improve kiya (95+ percentile) ?".
+*   **Motivation:** Rohan is motivated by the desire to secure a spot in a prestigious engineering (JEE) or medical (NEET) college. This is an implied motivation given the high stakes associated with these exams in India.
+
+**Pain Points and Challenges:**
+
+*   **Self-Doubt and Anxiety:** Rohan is experiencing significant self-doubt about his ability to improve his score. The core of the post is a question motivated by this anxiety: "BC pata nahi ki Improve Kar Paunga ya nahi :(". The "BC" (a common Hindi expletive, often used to express frustration) further emphasizes his anxiety and stress.
+*   **Lack of Confidence:** He is unsure whether he can successfully navigate the challenges of a drop year and achieve the desired level of improvement.
+*   **Seeking Validation and Inspiration:** Rohan is looking for stories from other students who have successfully made a similar improvement. He hopes to find reassurance and inspiration from their experiences. He is actively seeking anecdotal evidence: "Koi Hai Yaha Jiske Pichle Saal less than 70 percentile the aur drop karne ke baad bohot improve kiya (95+ percentile) ?".
+*   **Fear of Failure:** The possibility of failing to improve his score and wasting a year of his life is a significant source of stress.
+
+**Tech Savviness:**
+
+*   Likely fairly tech-savvy, given his use of Reddit to seek advice and information.
+
+**Personality:**
+
+*   **Anxious:** As evidenced by the emotional language in his post.
+*   **Insecure:** Lacks confidence in his abilities.
+*   **Hopeful:** Despite his anxiety, he is still actively seeking advice and believing in the possibility of improvement.
+*   **Pragmatic:** Facing the harsh realities of competitive exams.
+
+**Summary:**
+
+Rohan is a student on a drop year preparing for JEE/NEET. He is anxious about whether he can significantly improve his score after a previous attempt yielded less than 70 percentile. He is actively seeking validation and inspiration from others who have achieved a similar improvement. He is driven by the desire to secure a seat in a good college but struggles with self-doubt and the fear of failure. He is likely to be active online, particularly on platforms like Reddit, seeking information, advice, and support from other students facing similar challenges.
